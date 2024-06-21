@@ -1,15 +1,24 @@
 # Generative-AI
 **Team Name:**
+
 DataTech Pioneers
 
 **List of Team Members:**
+
 Mahesh Gudla
+
 Srinivas Peeka
+
 Sai Vamshi Krishna Gajji
-Title of the Project:
+
+
+**Title of the Project:**
+
 PDF Image Extractor and Analyzer
 
+
 **Project Idea:**
+
 PDF Image Extractor and Analyzer aims to develop an advanced system that automates the extraction of images from PDF documents and provides detailed analysis of these images using AI. The project leverages Python libraries for image extraction and utilizes the LangChain library along with LLaVa via Ollama for image explanation and analysis.
 
 **Key Features:**
