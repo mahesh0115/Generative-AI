@@ -20,3 +20,8 @@ AI-Driven Image Analysis: Use LLaVa via Ollama to analyze and provide insights a
 User-Friendly Interface: Develop an intuitive interface for users to upload PDFs and view extracted image information.
 Multi-Format Support: Ensure compatibility with various PDF formats and types of images.
 Impact and Applications: This tool will be beneficial for researchers, educators, and professionals who need to analyze and interpret images embedded in PDF documents. It can be applied in academic research, legal document review, and digital archiving, enhancing productivity and accuracy in handling image-rich PDF files.
+
+**References**
+https://unstructured.io/
+https://unstructured-io.github.io/unstructured/index.html
+https://docs.unstructured.io/api-reference/api-services/python-sdk
